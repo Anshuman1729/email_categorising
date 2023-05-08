@@ -28,7 +28,10 @@ The Email Classifier can be integrated into existing email systems for scalabili
 The Email Classifier project can be extended to incorporate more advanced features such as sentiment analysis and intent recognition for more accurate email classification. It can also be scaled to handle large datasets and integrated into email management systems for commercial use. 
 
 ## Contributors
-* John Doe (johndoe@email.com)
+* Anshuman Khare (khare.anshuman47@gmail.com)
+* Jayti Bhatnagar (bhatnagarjayti@gmail.com)
+* Vikas Anand (vikashaanand051@gmail.com)
+* Shivansh Gupta (shivanshguptamine852@gmai.com)
 
 ## License
 This project is licensed under the Apache License 
