@@ -10,7 +10,7 @@ This solution improves the efficiency and productivity of email management by re
 * Maven
 * Machine learning algorithms (Naive Bayes, Random Forest, LDA)
 * Natural Language Processing techniques
-* Sentiment Analysis and Intent Recognition
+<!-- * Sentiment Analysis and Intent Recognition -->
 
 ## Getting Started
 1. Clone the repository
